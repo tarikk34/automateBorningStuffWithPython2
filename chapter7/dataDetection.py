@@ -28,6 +28,8 @@ def dataDetection(inputDate):
                 print("The date "+ inputDate + " is a valid date!")
             else:
                 print("The date "+ inputDate + " is a not valid date!")
+        else:
+            print("The date "+ inputDate + " is a valid date!")
     else:
         print("The date "+ inputDate + " is a valid date!")
 
